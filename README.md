@@ -38,9 +38,9 @@ Decided to go full time in web3 security from July 2025, in short span of time I
 
 ## 🔒 Private Audits
  
-| Date | Project | Type | Firm | Notes |
+| Date | Project | Type | Firm | Report |
 |---|---|---|---|---|
-| Apr '26 | Undisclosed | Confidential Lending Adapter (Zama's fhEVM) | [Kann Audits](https://x.com/KannAudits) | Private |
+| Apr '26 | [Fluton](https://x.com/FlutonIO) | Confidential Lending Adapter (Zama's fhEVM) | [Kann Audits](https://x.com/KannAudits) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
 
 
 
