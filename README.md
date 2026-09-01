@@ -4,13 +4,14 @@ Hey I'm Sarvesh Limaye,web3 security researcher and smart contract developer. I 
 
 I used to spend a significant amount of time debugging smart contracts in my previous role. Over time, I fell in love with finding bugs, understanding complex systems, and solving challenging issues. At the same time, I witnessed numerous major exploits across the ecosystem, which further sparked my interest in security.
 
-Decided to go full time in web3 security from July 2025, in short span of time I have achieved 1 x 🥉 and 3 x top 10s with more than 20+ HMs
+Decided to go full time in web3 security from July 2025, in short span of time I have achieved 2 x 🥉 and 3 x top 10s with more than 20+ HMs
 
 
 ### 🏆 Contest Results
 | Date | Contest | Platform | Findings | 💰 Payout | Rank |
 |---|---|---|---|---|---|
-| May '25 | [jigsaw-contracts](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | Cantina | 2 High, 1 Medium | 1,114.59 USDC | #13 |
+| June '26 | [Morpho Midnight](https://cantina.xyz/code/4679e0fa-85f7-4ea5-8827-ee6c70bdee6b/overview/leaderboard) | Cantina | 2 Lows| 4000 USDC | 🥉 |
+| May '25 | [jigsaw-contracts](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | Cantina | 2 High, 1 Medium | 1114.59 USDC | #13 |
 | Apr '26 | [K2](https://code4rena.com/audits/2026-04-k2) | Code4rena | 2 Medium | 555.77 USDC | #20 |
 | Jun '25 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991) | Sherlock | 2 Medium | 459.13 USDC | #19 |
 | Sep '25 | [Ammplify](https://audits.sherlock.xyz/contests/1054) | Sherlock | 1 High | 264.98 USDC | #28 |
