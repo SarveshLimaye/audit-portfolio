@@ -6,6 +6,10 @@ I used to spend a significant amount of time debugging smart contracts in my pre
 
 Decided to go full time in web3 security from July 2025, in short span of time I have achieved 2 x 🥉 and 3 x top 10s with more than 20+ HMs
 
+Cantina Profile - https://cantina.xyz/u/SarveshLimaye
+
+Sherlock Profile - https://audits.sherlock.xyz/watson/SarveshLimaye
+
 
 ### 🏆 Contest Results
 | Date | Contest | Platform | Findings | 💰 Payout | Rank |
@@ -42,11 +46,3 @@ Decided to go full time in web3 security from July 2025, in short span of time I
 | Date | Project | Type | Firm | Report |
 |---|---|---|---|---|
 | Apr '26 | [Fluton](https://x.com/FlutonIO) | Confidential Lending Adapter (Zama's fhEVM) | [Kann Audits](https://x.com/KannAudits) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
-
-
-
-### Social Profiles
-
-| Sherlock                                                    | Twitter                                                 | GitHub                                            |
-| ----------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| [Profile](https://audits.sherlock.xyz/watson/SarveshLimaye) | [@SarveshLimaye05](https://twitter.com/SarveshLimaye05) | [SarveshLimaye](https://github.com/SarveshLimaye) |
